@@ -2,6 +2,8 @@
 
 A simple and secure Random Password Generator built using HTML, CSS, and JavaScript. This project allows users to generate strong and customizable passwords with ease.
 
+
+
 🚀 Features
 🔢 Customizable password length
 🔠 Option to include uppercase letters
